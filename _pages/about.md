@@ -7,26 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-PhD in Environmental Engineering (2014), PARIS-EST (L'École des Ponts ParisTech).
+👨🏻‍🎓 PhD in Environmental Engineering (2014), PARIS-EST (L'École des Ponts ParisTech).
 
-My PhD focused on hydrological and ecological modelling of water resources. I monitored chemical-physical variables and hydrobiological organisms (mainly phytoplanktons and zooplanktons) to  understand the dynamics of water bodies. The monitored variables served to calibrate and validate a hydrodynamic ecological model that uses bathymtery, initial conditions and weather forecast to predict changes in water level, water temperature and hydrobiological community dyanmics (mainly algal blooms). After validation, this model was then used as end-user tool by water managers to forecast and manage algal blooms.
-
-
-
-
-Worked as a scientific researcher at Lebanese CNRS where I used remote sensing and GIS techniques to monitor natural resources (water, snow, vegetations, soil, evapotranspiration, coastal zones, etc. ). 
+📝 My PhD focused on hydrological and ecological modelling of water resources. I monitored chemical-physical variables and hydrobiological organisms (mainly phytoplanktons and zooplanktons) to  understand the dynamics of water bodies. The monitored variables served to calibrate and validate a hydrodynamic ecological model that uses bathymtery, initial conditions and weather forecast to predict changes in water level, water temperature and hydrobiological community dyanmics (mainly algal blooms). After validation, this model was then used as end-user tool by water managers to forecast and manage algal blooms.
 
 
 
-Served as expert consultant on projects funded by international agencies (EU, UNEP, FAO,...). 
+
+🌎 Worked as a scientific researcher at Lebanese CNRS where I used remote sensing and GIS techniques to monitor natural resources (water, snow, vegetations, soil, evapotranspiration, coastal zones, etc. ). 
+
+
+
+🕵️‍♂️ Served as expert consultant on projects funded by international agencies (EU, UNEP, FAO,...). 
 
 <h3 align="center"></h3>
-<p align="center"> <a href="https://iczmplatform.org/storage/documents/Wx09jrLjaTVq42IBesSrdMkb5MaAjbBHr0BxNUxw.pdf"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR8Ir3eq_HBBigZzmRtyf4ju2ZfwKZeGygg&s" alt="Report2" width="150" height="140"/> </a> <a href="https://iczmplatform.org/storage/documents/USh5x9SWHmxsY7eevjgLVMURB9hxjTC8fqgqMbso.pdf" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1JwU9z8wIgXLC4xA2uMorvblCVji021gW5XyeTNZD4-1Y7SktHSfhT4QSTCbbETDWUVk&usqp=CAU" alt="Report3" width="400" height="140"/> </a> </p>
+<p align="center"> <a href="https://iczmplatform.org/storage/documents/Wx09jrLjaTVq42IBesSrdMkb5MaAjbBHr0BxNUxw.pdf"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYR8Ir3eq_HBBigZzmRtyf4ju2ZfwKZeGygg&s" alt="Report2" width="150" height="150"/> </a> <a href="https://iczmplatform.org/storage/documents/USh5x9SWHmxsY7eevjgLVMURB9hxjTC8fqgqMbso.pdf" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1JwU9z8wIgXLC4xA2uMorvblCVji021gW5XyeTNZD4-1Y7SktHSfhT4QSTCbbETDWUVk&usqp=CAU" alt="Report3" width="400" height="140"/> </a> </p>
 
 Currently, doing research on eco-toxicology and teaching statistics, informatics and ecology at the university of Tours, France.
 
 <h3 align="center"></h3>
-<p align="center"> <a href="https://www.sciencedirect.com/science/article/pii/S2772809923000552"> <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2772809923000552-gr2.jpg" alt="Report2" width="200" height="300"/> </a> <a href="https://www.sciencedirect.com/science/article/pii/S2772809923000552"> <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2772809923000552-gr3.jpg" alt="Report2" width="200" height="300"/> </a>  </p>
+<p align="center"> <a href="https://www.sciencedirect.com/science/article/pii/S2772809923000552"> <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2772809923000552-gr2.jpg" alt="Report2" width="200" height="300"/> </a> <a href="https://www.sciencedirect.com/science/article/pii/S2772809923000552"> <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2772809923000552-gr3.jpg" alt="Report2" width="200" height="320"/> </a>  </p>
 
 
 
